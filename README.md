@@ -32,12 +32,11 @@ Solo necesitas un navegador moderno compatible con HTML5 y JavaScript.
 ## Estructura del Proyecto
 
 ```txt
-/selector-iconos
-│
-├── index.html       # Archivo principal con la estructura HTML.
-├── styles.css       # Archivo de estilos CSS para diseño.
-├── script.js        # Lógica JavaScript para la búsqueda y generación del HTML.
-└── README.md        # Documentación del proyecto.
+/IconSelector
+  ├── styles.css
+  ├── script.js
+  ├── icons.json
+  └── index.html
 ```
 
 ## Tecnologías Utilizadas
